@@ -8,7 +8,9 @@
   <title>OTE-Project</title>
 </head>
 <body>
-
+  
+ <center><h1>OTE Platform is Comming Soon</h1></center>
+  
 </body>
 </html>
 ?>
